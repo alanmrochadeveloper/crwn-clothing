@@ -1,0 +1,164 @@
+{
+    "cSpell.enabled": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.enableSmartCommit": true,
+    "better-comments.highlightPlainText": true,
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "cSpell.userWords": [
+        "active",
+        "is",
+        "postgres",
+        "product",
+        "repository",
+        "typeorm",
+        "zipcode"
+    ],
+    "git.autofetch": true,
+    "gitlens.defaultDateFormat": null,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "font-switcher.enableLivePreview": true,
+    "font-switcher.fontFamily": "Consolas, DejaVu Sans Mono, monospace, Fira Mono, Fira Sans, Liberation Mono, Mathjax_Caligraphic, Noto Sans CJK JP, P052, URW Gothic, Ubuntu, Nimbus Roman, AR PL UMing CN, Courier 10 Pitch, Fira Code ,Fira Code Retina, Corbel, Segoe Script, Segoe Print",
+    "terminal.integrated.fontFamily": "Operator Mono Lig, monospace",
+    "terminal.integrated.rendererType": "dom",
+    "terminal.integrated.shell.windows": "C:\\Users\\alanm\\AppData\\Local\\Microsoft\\WindowsApps\\debian.exe",
+    "editor.fontLigatures": true,
+    "editor.fontSize": "16",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "material-icon-theme.folders.theme": "classic",
+    "material-icon-theme.activeIconPack": "nest",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "todo-tree.tree.showScanModeButton": false,
+    "powermode.enabled": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.fontFamily": "Operator Mono Lig, Fira Code Retina",
+    "auto-close-tag.activationOnLanguage": [
+        "xml",
+        "php",
+        "blade",
+        "ejs",
+        "jinja",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "plaintext",
+        "markdown",
+        "vue",
+        "liquid",
+        "erb",
+        "lang-cfml",
+        "cfml",
+        "HTML (EEx)",
+        "HTML (Eex)",
+        "plist"
+    ],
+    "auto-close-tag.disableOnLanguage": [],
+    "auto-close-tag.excludedTags": [
+        "area",
+        "base",
+        "br",
+        "col",
+        "command",
+        "embed",
+        "hr",
+        "img",
+        "input",
+        "keygen",
+        "link",
+        "meta",
+        "param",
+        "source",
+        "track",
+        "wbr"
+    ],
+    "auto-close-tag.SublimeText3Mode": true,
+    "auto-close-tag.fullMode": true,
+    "typescript.format.semicolons": "insert",
+    "typescript.preferences.quoteStyle": "single",
+    "typescript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "javascript.format.semicolons": "insert",
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": true,
+    "bracket-pair-colorizer-2.forceIterationColorCycle": true,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.productIconTheme": "fluent-icons",
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "glassit.alpha": 250,
+    "glassit.step": 50,
+    "files.autoSave": "afterDelay",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
